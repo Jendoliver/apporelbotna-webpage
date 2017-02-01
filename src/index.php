@@ -6,5 +6,9 @@
 </head>
 <body>
     <!-- TO DO: KNUT -->
+    <ul>
+        <li>capuyo 1</li>
+        <li>capuyo 2</li>
+    </ul>
 </body>
 </html>
